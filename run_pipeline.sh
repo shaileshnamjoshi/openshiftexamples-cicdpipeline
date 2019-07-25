@@ -1,1 +1,1 @@
-oc start-build -F openshiftexamples-cicdpipeline"
+oc start-build -F openshiftexamples-cicdpipeline
